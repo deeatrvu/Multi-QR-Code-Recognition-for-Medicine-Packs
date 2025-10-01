@@ -1,8 +1,6 @@
 # Multi-QR Code Recognition for Medicine Packs
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.7+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 A deep learning-based system for detecting and decoding multiple QR codes on medicine packages using Faster R-CNN with ResNet50 backbone.
 
